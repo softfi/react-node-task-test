@@ -36,6 +36,3 @@
   Delete a Single Meeting<br/>
   Delete Multiple Meetings<br/>
 
-- Best regards, <br/>
-  
-  Softfix Team
